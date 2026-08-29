@@ -43,4 +43,3 @@ By configuring each multiplier to output a +HV and the other to do a -HV, it is 
 | JLC Shipping                       |      $15 | JLCPCB                                                                                                       |
 | **Total**                          | **$194** |                                                                                                              |
 
-> **Note:** Prices are approximate and may change based on availability, shipping, and quantity.
